@@ -1,1 +1,1 @@
-![CI](https://github.com/MarkoMelle/Whack-game/actions/workflows/web.yml/badge.svg)
+[![Whack-game](https://github.com/MarkoMelle/Whack-game/actions/workflows/main.yml/badge.svg)](https://github.com/MarkoMelle/Whack-game/actions/workflows/main.yml)
